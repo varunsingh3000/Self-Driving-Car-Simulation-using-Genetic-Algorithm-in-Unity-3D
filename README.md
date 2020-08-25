@@ -18,3 +18,5 @@ Raycasts emerging from the agents are used to calculate the distances from the o
 A bunch of agents spawn at once in which many will crash however as the generation increases, the performance of the agents gets better as well.
 
 ![population of cars spawning](https://user-images.githubusercontent.com/64498789/91141841-a9392480-e6cd-11ea-807d-250cc66a00c9.jpg)
+
+This project was created as a fun project while exploring unity3d game engine and ml-agents.
